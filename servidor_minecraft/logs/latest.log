@@ -1,0 +1,20 @@
+[00:00:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:00:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:02:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:03:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt was slain by Empire Nobleman
+[00:03:07] [Server thread/INFO] [tombstone]: The last known grave of eljospt is at location [name:Last Grave, x:-2273, y:63, z:-507] in the dimension 0
+[00:03:07] [Server thread/INFO] [tombstone]: eljospt has successfully been saved
+[00:03:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to eljospt
+[00:03:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:03:35] [Server thread/INFO] [mca]: Villager death: Leona. Caused by: Zombie. UUID: b2d62505-f2d2-4439-accb-2c04f3141a1f
+[00:04:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt was slain by Empire Nobleman
+[00:04:02] [Server thread/INFO] [tombstone]: The last known grave of eljospt is at location [name:Last Grave, x:-2266, y:64, z:-541] in the dimension 0
+[00:04:02] [Server thread/INFO] [tombstone]: eljospt has successfully been saved
+[00:04:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to eljospt
+[00:04:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Teleported eljospt to -2265.5, 65.0, -540.5]
+[00:07:11] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[00:08:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:08:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:08:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:11:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: eljospt lost connection: Disconnected
+[00:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt left the game
