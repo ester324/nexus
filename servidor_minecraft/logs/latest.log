@@ -3166,3 +3166,54 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [05:25:54] [Server thread/WARN] [FML]: Quark loaded a new chunk [-170, -42] in dimension 0 (overworld) while populating chunk [-169, -42], causing cascading worldgen lag.
 [05:25:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [05:25:55] [Server thread/INFO] [ancientwarfarestructure]: Generated structure: PMMOBSShriekerCircle at -2704, 71, -643, time: 4ms
+[05:28:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:28:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:33:28] [Server thread/INFO] [ancientwarfarestructure]: Generated structure: EmpireFarmYeomanApple_rustic at -3312, 63, -1238, time: 36ms
+[05:33:45] [Server thread/INFO] [ancientwarfarestructure]: Generated structure: SmallStoneCircle at -3180, 63, -1272, time: 11ms
+[05:33:49] [Server thread/WARN] [FML]: Quark loaded a new chunk [-210, -83] in dimension 0 (overworld) while populating chunk [-209, -82], causing cascading worldgen lag.
+[05:33:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:33:53] [Server thread/WARN] [FML]: Quark loaded a new chunk [-209, -88] in dimension 0 (overworld) while populating chunk [-208, -90], causing cascading worldgen lag.
+[05:33:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:33:53] [Server thread/WARN] [FML]: Quark loaded a new chunk [-209, -89] in dimension 0 (overworld) while populating chunk [-208, -90], causing cascading worldgen lag.
+[05:33:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:33:53] [Server thread/WARN] [FML]: Quark loaded a new chunk [-208, -89] in dimension 0 (overworld) while populating chunk [-208, -90], causing cascading worldgen lag.
+[05:33:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:33:53] [Server thread/WARN] [FML]: Quark loaded a new chunk [-207, -90] in dimension 0 (overworld) while populating chunk [-208, -90], causing cascading worldgen lag.
+[05:33:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:33:53] [Server thread/WARN] [FML]: Quark loaded a new chunk [-207, -89] in dimension 0 (overworld) while populating chunk [-208, -90], causing cascading worldgen lag.
+[05:33:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:33:53] [Server thread/WARN] [FML]: Quark loaded a new chunk [-224, -94] in dimension 0 (overworld) while populating chunk [-224, -95], causing cascading worldgen lag.
+[05:33:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:33:53] [Server thread/INFO] [ancientwarfarestructure]: Generated structure: PMMOBSShriekerCircle at -3444, 71, -1447, time: 2ms
+[05:33:54] [Server thread/INFO] [ancientwarfarestructure]: Generated structure: BrigandHighwayMan at -3284, 65, -1503, time: 1ms
+[05:33:54] [Server thread/WARN] [FML]: Quark loaded a new chunk [-223, -83] in dimension 0 (overworld) while populating chunk [-224, -84], causing cascading worldgen lag.
+[05:33:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:33:55] [Server thread/INFO] [ancientwarfarestructure]: Generated structure: GuardiansSwampBase at -3558, 65, -1349, time: 2ms
+[05:33:55] [Server thread/INFO] [ancientwarfarestructure]: Generated structure: OwlbearPackBirchHills at -3313, 70, -1037, time: 1ms
+[05:33:56] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5128ms behind, skipping 102 tick(s)
+[05:34:20] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-208, -87] in dimension 0 (overworld) while populating chunk [-205, -86], causing cascading worldgen lag.
+[05:34:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:34:20] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-208, -88] in dimension 0 (overworld) while populating chunk [-205, -86], causing cascading worldgen lag.
+[05:34:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:34:20] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-205, -88] in dimension 0 (overworld) while populating chunk [-205, -86], causing cascading worldgen lag.
+[05:34:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:34:20] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-206, -89] in dimension 0 (overworld) while populating chunk [-205, -86], causing cascading worldgen lag.
+[05:34:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:34:20] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-206, -88] in dimension 0 (overworld) while populating chunk [-205, -86], causing cascading worldgen lag.
+[05:34:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:34:20] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-207, -88] in dimension 0 (overworld) while populating chunk [-205, -86], causing cascading worldgen lag.
+[05:34:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:34:20] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-206, -86] in dimension 0 (overworld) while populating chunk [-205, -86], causing cascading worldgen lag.
+[05:34:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:34:20] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-207, -86] in dimension 0 (overworld) while populating chunk [-205, -86], causing cascading worldgen lag.
+[05:34:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:34:20] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-206, -87] in dimension 0 (overworld) while populating chunk [-205, -86], causing cascading worldgen lag.
+[05:34:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:34:20] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-207, -87] in dimension 0 (overworld) while populating chunk [-205, -86], causing cascading worldgen lag.
+[05:34:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:35:12] [Server thread/INFO] [ancientwarfarestructure]: Generated structure: CovenWickermanPlains at -2836, 71, -1239, time: 1ms
+[05:36:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt was killed by Wizard using magic
+[05:36:01] [Server thread/INFO] [tombstone]: The last known grave of eljospt is at location [name:Last Grave, x:-2926, y:63, z:-1152] in the dimension 0
+[05:36:01] [Server thread/INFO] [tombstone]: eljospt has successfully been saved
+[05:36:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to eljospt
+[05:36:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Teleported eljospt to -2925.5, 64.0, -1151.5]
