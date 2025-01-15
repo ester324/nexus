@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-01-15 05:40:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-01-10 22:39:40 +0000"
